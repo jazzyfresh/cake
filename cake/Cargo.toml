@@ -5,3 +5,5 @@ authors = ["Jasmine Dahilig <jasmine@dahilig.com>"]
 edition = "2018"
 
 [dependencies]
+structopt = { version = "0.2", default-features = false }
+
